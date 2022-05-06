@@ -20,7 +20,7 @@ Once AIMS grid is defined, next step is data discovery. For that, Sales records 
 
    Next, Clean the data by adding filters on the columns like removing the unwanted row, converting the currency and filter the negative and null values.
  
-5. **Build Tableau Dashboard and publish it on Tableau Public**:
+5. **Build Tableau Dashboard and publish it on Tableau Public**:https://public.tableau.com/app/profile/upasana4027
 
 6. **Feedback From Stakeholders & Profit Analysis**: Based on the feedback from stakeholders we will build phase 2 where we will do profit analysis and fix some issues found in phase 1. Some changes were: 
   Adding context filters, adding profit, profit_margin, cost columns in tables, breakdown of sales w.r.t customer names and profit margin by regions.
