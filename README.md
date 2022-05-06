@@ -5,7 +5,7 @@
   * Top 5 customers by revenue and sales quantity
   * Top 5 products by revenue amount
 
-2. **Data Discovery**: Defining purpose and success criteria of this project using AIMS grid. Four components of AIMS grid are:\
+2. **Data Discovery**: Defining purpose and success criteria of this project using AIMS grid. Four components of AIMS grid are:
 
  * Purpose: To unlock sales insights that are not visible before for sales team for decision support & automate them to reduce manual time spent in data gathering.
  * Stakeholders: Defines who all are involved in this project.(Sales Director, Data & Analytics Team, IT, etc)
