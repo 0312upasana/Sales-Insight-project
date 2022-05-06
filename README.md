@@ -24,3 +24,4 @@ Once AIMS grid is defined, next step is data discovery. For that, Sales records 
 
 6. **Feedback From Stakeholders & Profit Analysis**: Based on the feedback from stakeholders we will build phase 2 where we will do profit analysis and fix some issues found in phase 1. Some changes were: 
   Adding context filters, adding profit, profit_margin, cost columns in tables, breakdown of sales w.r.t customer names and profit margin by regions.
+![Screenshot (533)](https://user-images.githubusercontent.com/98179693/167156403-60665988-0342-4590-85dd-da3b4f213f22.png)
