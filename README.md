@@ -1,4 +1,4 @@
-# Sales-Insight
+# Sales-Insight(ATLIQ)
 1. **Problem Statement**: Atliq hardware is a company which supplies hardwware peripherals to different clients such as nomad stores, excel stores etc. They have regional offices in different states of India. Now, Sales are declining for this business. So, Mr. Patel who is the Sales Director of this company wants to know the following questions:
   * Revenue breakdown by cities
   * Revenue breakdown by years and months
