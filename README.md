@@ -4,6 +4,8 @@
   * Revenue breakdown by years and months
   * Top 5 customers by revenue and sales quantity
   * Top 5 products by revenue amount
+  ![Screenshot (534)](https://user-images.githubusercontent.com/98179693/167156743-c612dc35-6064-47e9-bc26-573c379b6906.png)
+
 
 2. **Data Discovery**: Defining purpose and success criteria of this project using AIMS grid. Four components of AIMS grid are:
 
